@@ -1,4 +1,4 @@
-# pulse id service
+# App invite service
 
 The requirement is given in ./Platform Backend Engineer Task.pdf file
 
